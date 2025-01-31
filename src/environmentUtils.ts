@@ -9,6 +9,6 @@ export function baseUrl(): string {
 }
 
 export function getToken(): string {
-    let personalToken = 'ff50df45abcefb2cfc046c1988cd8302dcfed30b0b3f0d3f59ec3745121b9682';
+    let personalToken = 'COLOCAR-TOKEN';
     return personalToken;
 }
